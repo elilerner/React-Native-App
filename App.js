@@ -179,7 +179,7 @@ const courses = [
     subtitle: "10 sections",
     image: require("./assets/background13.jpg"),
     logo: require("./assets/logo-studio.png"),
-    author: "Meng To",
+    author: "Eli Lerner",
     avatar: require("./assets/avatar.jpg"),
     caption: "Design an interactive prototype"
   },
